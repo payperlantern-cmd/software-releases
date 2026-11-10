@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "PromptForge",
+  "repository": "payperlantern-cmd/software-releases",
+  "version": "2.17.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.17.0/PromptForge-v2.17.0.zip",
+  "sha256": "9f09e9d0a06287e41c8bef006f2dd74cc8d673467e11635743f1842bd567fc27",
+  "size": 7305696,
+  "notes": "Online update button with integrity checks and rollback; stable PromptForge folder inside ZIP; preserves user data and runtimes."
+}
