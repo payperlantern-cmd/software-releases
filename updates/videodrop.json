@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "VideoDrop",
+  "repository": "payperlantern-cmd/software-releases",
+  "version": "1.5.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/videodrop-v1.5.0/VideoDrop-v1.5.0-win-x64.zip",
+  "size": 124825,
+  "sha256": "47bd6b6c40958e47129243cc79bbb8db3193b853dae6861dfe6e4112420726e0",
+  "notes": "VideoDrop 1.5.0: private GitHub application updates, verified downloads, safe restart and rollback; settings and download tools are preserved."
+}
