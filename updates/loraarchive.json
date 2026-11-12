@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "LoRAArchive",
+  "repository": "payperlantern-cmd/software-releases",
+  "version": "0.5.18",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/loraarchive-v0.5.18/LoRAArchive-v0.5.18.zip",
+  "sha256": "126e4eba377df22dafba119ce528689f0c2016832df6214b61f372279f4ee958",
+  "size": 91374625,
+  "notes": "Adds on-demand online application updates with checksum verification, rollback and restart. Preserves model files, archive data, credentials, settings and partial downloads. Firefox temporary add-on requires Reload after upgrade."
+}
