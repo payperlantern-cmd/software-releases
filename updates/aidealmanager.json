@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "AidealManager",
+  "version": "0.7.0",
+  "repository": "payperlantern-cmd/software-releases",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/aidealmanager-v0.7.0/AidealManager-0.7.0-win-x64.zip",
+  "sha256": "62848f79ce722908313c19cf7d0eacc55bd8de4c33590b86c3852bd21451e15d",
+  "size": 82886775,
+  "notes": "Portable library restoration, project-owned dependencies, and startup/manual online version checks. Preserve data when installing updates."
+}
