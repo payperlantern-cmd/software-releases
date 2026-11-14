@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.3.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.3.0/ShuzenDaicho-v2.3.0.zip",
-  "sha256": "49f82f362269222e84794c75ac3b931ac99d566eeb9bf5596294a3a7cf29bbf1",
-  "size": 67807561,
-  "notes": "物件図面・資料に道路使用許可申請書作成を追加。埼玉県警察様式のPDF記入、底図上のベクトル作図、誘導員・車両・カラーコーン配置、mm校正と0.01 m寸法に対応。申請内容と編集可能な図面をプロジェクトへ保存できます。"
+  "version": "2.3.2",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.3.2/ShuzenDaicho-v2.3.2.zip",
+  "sha256": "e0bf1fd5b0d54d956095e5b2803be68f6724b784a9041519f167f4018d67167b",
+  "size": 67815226,
+  "notes": "縮尺校正を独立ボタン化し、図形の選択・移動・右クリック削除と複数作業図追加を改善。3t平ボディは長さ5000×幅2200mmの実寸で校正に連動。文字を追加ボタンから複数行の文字入力・編集・配置に対応。"
 }
