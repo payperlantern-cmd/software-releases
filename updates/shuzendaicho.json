@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.4.2",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.4.2/ShuzenDaicho-v2.4.2.zip",
-  "sha256": "abc3f7b666b050d414f250dff0b4933660e6ac16770051d696a6f84393ef6c2e",
-  "size": 67878934,
-  "notes": "更新画面を開くたびに新しいバージョンを自動で確認します。更新元のアドレス表示を省き、現在の版をバージョンに変更しました。画面やエラーメッセージの日本語表記を見直しました。データ形式とExcel書式は変更していません。"
+  "version": "2.4.3",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.4.3/ShuzenDaicho-v2.4.3.zip",
+  "sha256": "172332f2a91b05198d20c65dac63db73a7691a1df16aca8c2ca0b67fffde321e",
+  "size": 67884578,
+  "notes": "更新のタイムアウトと中止を区別し、ダウンロード失敗時の案内を日本語に統一しました。保存確認後の中止も反映します。工事分類の入力画面と、主要ボタンのマウス操作・無効状態の表示を修正しました。データ形式とExcel書式は変更していません。"
 }
