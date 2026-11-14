@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/opencodedesk-v1.0.0/OpenCodeDesk-v1.0.0.zip",
+  "version": "1.0.0",
+  "product": "OpenCodeDesk",
+  "repository": "payperlantern-cmd/software-releases",
+  "schema": 1,
+  "size": 63245338,
+  "notes": "首次发布：图形聊天、模型配置与切换、OpenCode 技能/MCP、校验更新及保留数据。",
+  "sha256": "9b28a074dc2338ea324520904b6fe34043f55d78ae2fcd51fbb947fe526229b9"
+}
