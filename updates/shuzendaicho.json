@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.4.1",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.4.1/ShuzenDaicho-v2.4.1.zip",
-  "sha256": "c67480b4ac1e6070db09e148606caa5232d04fd32c4a39bf36fd0d599a96aff6",
-  "size": 67874493,
-  "notes": "工事完了報告書に独立したテンプレート管理を追加。保存・更新・複製・名前変更・確認付き削除・テンプレートから新規作成に対応。設定・更新・使い方を配色の右に移動。旧カタログは安全バックアップ後に移行し、以降は2.4.1以降をご利用ください。"
+  "version": "2.4.2",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.4.2/ShuzenDaicho-v2.4.2.zip",
+  "sha256": "abc3f7b666b050d414f250dff0b4933660e6ac16770051d696a6f84393ef6c2e",
+  "size": 67878934,
+  "notes": "更新画面を開くたびに新しいバージョンを自動で確認します。更新元のアドレス表示を省き、現在の版をバージョンに変更しました。画面やエラーメッセージの日本語表記を見直しました。データ形式とExcel書式は変更していません。"
 }
