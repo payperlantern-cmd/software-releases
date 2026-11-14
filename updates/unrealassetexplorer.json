@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "UnrealAssetExplorer",
+  "version": "0.15.0",
+  "repository": "payperlantern-cmd/software-releases",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/unrealassetexplorer-v0.15.0/UnrealAssetExplorer-0.15.0-win-x64.zip",
+  "sha256": "660cff2753762949122b4807197e25c5db693ee76a4494b24b3f49a25b0093f6",
+  "size": 115549734,
+  "notes": "Portable library restoration, project-owned dependencies, and startup/manual online version checks. Preserve data when installing updates."
+}
