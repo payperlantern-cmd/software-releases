@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "PromptForge",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.17.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.17.0/PromptForge-v2.17.0.zip",
-  "sha256": "9f09e9d0a06287e41c8bef006f2dd74cc8d673467e11635743f1842bd567fc27",
-  "size": 7305696,
-  "notes": "Online update button with integrity checks and rollback; stable PromptForge folder inside ZIP; preserves user data and runtimes."
+  "version": "2.18.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.18.0/PromptForge-v2.18.0.zip",
+  "sha256": "c51ae8ccb5451a13edbec0f71ac303d0aadd8256a2cbe7a82e7d1b76728b6944",
+  "size": 7315281,
+  "notes": "Model & runtime: Check / prepare runtime now checks and updates llama.cpp from official releases. Verifies package integrity and build identity, preserves older runtimes, and applies the new path only when saved. Managed runtime paths survive folder relocation. Models and generation settings are unchanged."
 }
