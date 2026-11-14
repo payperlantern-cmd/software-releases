@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "ShuzenDaicho",
+  "repository": "payperlantern-cmd/software-releases",
+  "version": "2.1.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.1.0/ShuzenDaicho-v2.1.0.zip",
+  "sha256": "8d43551ee3723853a6f0b607ffe381d3a6d0db70daec5c469a867dc5075266c2",
+  "size": 65891295,
+  "notes": "オンライン更新機能を追加。物件図面と資料図面を「物件図面・資料」に統合。既存データ・写真・改訂履歴を保持します。旧版からは初回のみ手動で移行してください。"
+}
