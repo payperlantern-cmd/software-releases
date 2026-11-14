@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.3.2",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.3.2/ShuzenDaicho-v2.3.2.zip",
-  "sha256": "e0bf1fd5b0d54d956095e5b2803be68f6724b784a9041519f167f4018d67167b",
-  "size": 67815226,
-  "notes": "縮尺校正を独立ボタン化し、図形の選択・移動・右クリック削除と複数作業図追加を改善。3t平ボディは長さ5000×幅2200mmの実寸で校正に連動。文字を追加ボタンから複数行の文字入力・編集・配置に対応。"
+  "version": "2.4.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.4.0/ShuzenDaicho-v2.4.0.zip",
+  "sha256": "c7d994bc6d5639f3a2fa5f7d370263f4c7564aaf4654cad8030c21c49194560e",
+  "size": 67863723,
+  "notes": "工事完了報告書モードを追加。物件情報を共有し、工事写真・分類・完成写真を独立管理。空白原本のA4縦Excel書式、既存完了報告書の画像・説明の読込、完全バックアップに対応。作業図はホイール拡大縮小・中ボタン移動に対応。"
 }
