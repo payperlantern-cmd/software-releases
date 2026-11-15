@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "PerfOverlay",
+  "repository": "payperlantern-cmd/software-releases",
+  "version": "1.0.2",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/perfoverlay-v1.0.2/PerfOverlay-1.0.2-win-x64.zip",
+  "sha256": "57f4a07fcbf038b6126b5d9a51c02c7ab30b7a84a720cceadd643af97b1d6c15",
+  "size": 410834,
+  "notes": "Adds manual Check for updates and Install update to the tray menu, with verified downloads, restart, rollback and settings preservation."
+}
