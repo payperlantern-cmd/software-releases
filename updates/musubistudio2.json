@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "repository": "payperlantern-cmd/software-releases",
+  "product": "MusubiStudio2",
+  "version": "0.2.1",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/musubistudio2-v0.2.1/MusubiStudio2-v0.2.1-win-x64.zip",
+  "sha256": "412b26dc63555ee1b1f2f715643e18ec310b1430462552d86d8bf8f4a1aa2974",
+  "size": 212412827,
+  "notes": "官方在线更新；固定左侧项目列表；检查环境时更新受管理 runtime 与兼容依赖。更新保留项目、模型及已安装环境。"
+}
