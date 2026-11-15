@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "SKCDownloader",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "1.6.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v1.6.0/SKCDownloader-v1.6.0.zip",
-  "size": 90488130,
-  "sha256": "b1e5046062eedd8a99140004fc2c82d08e7e7452e80a5a75a22e5eff3d59c9b2",
-  "notes": "New WPF UI interface with explicit image/project/file checkboxes; Firefox, Chrome and Edge cookie selection; remembered window position and size; new architectural archive icon. Includes .NET 10 and the archive engine. Existing databases and updates are preserved. Windows Chromium encryption can prevent cookie access. Sitemap freshness and subscription completeness remain unverified."
+  "version": "1.7.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v1.7.0/SKCDownloader-v1.7.0.zip",
+  "size": 90554280,
+  "sha256": "4118838fad18665ca803569635d6ee1f5410d1a4de7d70730d626a38cfdf5798",
+  "notes": "New architectural archive icon and Full-site backup workspace. Persistent local index with explicit refresh, live overview search and filters, infinite scrolling, flat project folders retaining original filenames, and Open project folder. Configurable concurrent downloads and request interval. Existing data and revision history are retained. Site coverage and Chromium cookie encryption limitations remain."
 }
