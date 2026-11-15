@@ -2,9 +2,9 @@
   "schema": 1,
   "repository": "payperlantern-cmd/software-releases",
   "product": "MusubiStudio2",
-  "version": "0.7.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/musubistudio2-v0.7.0/MusubiStudio2-v0.7.0-win-x64.zip",
-  "sha256": "c79bbb53e8dcebb8593735b9181e3bcb4871008f2599168905b93b92c888de6c",
-  "size": 208356736,
-  "notes": "资源管理器增加右键编辑、删除、导入和归类；删除前确认文件数量及空间，保护训练引用。列表改为无缩略图的详细信息视图，支持列排序与调整；修复 CaptionStudio 文件名缩放；各模组增加多关键字搜索。"
+  "version": "0.7.1",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/musubistudio2-v0.7.1/MusubiStudio2-v0.7.1-win-x64.zip",
+  "sha256": "b79f7c03c047805249146072555be794e7a48583e98fe5dfe6accc894f6a7244",
+  "size": 208360616,
+  "notes": "修复跨项目删除前的文件占用检测及部分完成提示；统一中英文引号搜索；优化大量文件全选响应；修复干净构建遗漏模块 Python 脚本的问题。已通过 248 项检查、升级重启和资料保留验证。"
 }
