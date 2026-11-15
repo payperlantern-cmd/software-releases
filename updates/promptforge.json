@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "PromptForge",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.18.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.18.0/PromptForge-v2.18.0.zip",
-  "sha256": "c51ae8ccb5451a13edbec0f71ac303d0aadd8256a2cbe7a82e7d1b76728b6944",
-  "size": 7315281,
-  "notes": "Model & runtime: Check / prepare runtime now checks and updates llama.cpp from official releases. Verifies package integrity and build identity, preserves older runtimes, and applies the new path only when saved. Managed runtime paths survive folder relocation. Models and generation settings are unchanged."
+  "version": "2.18.1",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.18.1/PromptForge-v2.18.1.zip",
+  "sha256": "629a8a3a4144d7cdab1f3c07962ae3b0b43be5b4265a5d51ddc33d9969e2564f",
+  "size": 7317606,
+  "notes": "Adds CUDA runtime preparation and updates with the matching official CUDA 12.4 DLL package. CUDA is the default for new settings; existing saved backend choices are preserved. Models and generation settings are unchanged. Functional/UI/inference/performance tests were explicitly skipped at user request; build and artifact integrity checks only. No speed improvement is claimed."
 }
