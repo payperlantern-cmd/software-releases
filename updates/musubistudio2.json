@@ -2,9 +2,9 @@
   "schema": 1,
   "repository": "payperlantern-cmd/software-releases",
   "product": "MusubiStudio2",
-  "version": "0.4.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/musubistudio2-v0.4.0/MusubiStudio2-v0.4.0-win-x64.zip",
-  "sha256": "5593c67e9bd9510c00ae475b2329f0b41b133bf28767ca1f079a6945f1983030",
-  "size": 208209022,
-  "notes": "主题及底模工程右键编辑、复制、删除与恢复；语言和配色独立下拉选择；项目文件；导入已有资料库；安全共享重复 CUDA 大型依赖。"
+  "version": "0.5.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/musubistudio2-v0.5.0/MusubiStudio2-v0.5.0-win-x64.zip",
+  "sha256": "abcafaa71fe0df6132c58a368c613f4b7b15afa8ef0c2752dce1f2f5c78454c7",
+  "size": 208291526,
+  "notes": "回收站永久删除与清空、文件数量及空间确认；修复图片导入后页面无法切换；工程名称预填；项目文件删除、完整可调预览；FrameStudio 导入项目视频；各媒体列表缩略图大小可调并保存。"
 }
