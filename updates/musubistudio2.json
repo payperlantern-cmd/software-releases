@@ -2,9 +2,9 @@
   "schema": 1,
   "repository": "payperlantern-cmd/software-releases",
   "product": "MusubiStudio2",
-  "version": "0.3.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/musubistudio2-v0.3.0/MusubiStudio2-v0.3.0-win-x64.zip",
-  "sha256": "e94ea4ef602b672dc51def33b6f168431c75debdcc6e1ec1e73fc5041b72abcb",
-  "size": 208194234,
-  "notes": "主题与底模工程分离；统一语言、配色和环境更新；三个模组默认 CUDA；精简目录并保留项目、模型和已安装环境。"
+  "version": "0.4.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/musubistudio2-v0.4.0/MusubiStudio2-v0.4.0-win-x64.zip",
+  "sha256": "5593c67e9bd9510c00ae475b2329f0b41b133bf28767ca1f079a6945f1983030",
+  "size": 208209022,
+  "notes": "主题及底模工程右键编辑、复制、删除与恢复；语言和配色独立下拉选择；项目文件；导入已有资料库；安全共享重复 CUDA 大型依赖。"
 }
