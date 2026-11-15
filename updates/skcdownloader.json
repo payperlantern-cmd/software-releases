@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "SKCDownloader",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "1.7.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v1.7.0/SKCDownloader-v1.7.0.zip",
-  "size": 90554280,
-  "sha256": "4118838fad18665ca803569635d6ee1f5410d1a4de7d70730d626a38cfdf5798",
-  "notes": "New architectural archive icon and Full-site backup workspace. Persistent local index with explicit refresh, live overview search and filters, infinite scrolling, flat project folders retaining original filenames, and Open project folder. Configurable concurrent downloads and request interval. Existing data and revision history are retained. Site coverage and Chromium cookie encryption limitations remain."
+  "version": "1.8.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v1.8.0/SKCDownloader-v1.8.0.zip",
+  "size": 90560659,
+  "sha256": "13c8df8abc6c908d6522d6d19b74a7ef0baae803141e23a7e5d21852f63b92ed",
+  "notes": "Faster incremental list updates with bounded concurrent metadata reads and unchanged-source caching. Committed projects stay visible during updates and after cancellation. Resizable remembered details pane, visible column grips, stable previews and external image opening on double-click. Simplified cookie settings and readable List update status. Existing databases, backups and settings are preserved; site access and request-interval limits remain."
 }
