@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.2",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.2/ShuzenDaicho-v2.6.2.zip",
-  "sha256": "d0eb3a2ab6e553e7f064f4212d494131b480978c13d7e8b01bd1e94202e3507c",
-  "size": 67929203,
-  "notes": "動画のチェック済み保存で、未指定行を現在の物件または選択した保存済み物件へ登録するよう修正しました。登録済み写真・動画はDBの内容ハッシュで導入一覧から除外し、名前を変えても重複表示しません。現場写真・工事写真にファイル種類フィルターを追加。図面・資料と写真に右クリックでファイルを開く操作、写真に現在モードの表紙への設定を追加しました。動画は資料庫専用、改訂番号と既存書式は保持します。"
+  "version": "2.6.3",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.3/ShuzenDaicho-v2.6.3.zip",
+  "sha256": "c5c2c935a274265810ff8d15710aea6180f9b79e6ad9d1082acb1d368c9af10c",
+  "size": 67944961,
+  "notes": "バックアップ・復元の進捗ウィンドウを追加しました。現場写真・工事写真の初回追加時に元ファイルの扱いを選び、設定から削除する／削除しない／毎回確認するを変更できます。削除は新規保存と内容照合が成功した元ファイルだけが対象です。入口を現場写真をインポート／工事写真をインポートに変更し、閲覧ページにも写真・動画のフィルターを追加しました。動画は資料庫専用です。新しい完全バックアップの復元には2.6.3以降を使用してください。"
 }
