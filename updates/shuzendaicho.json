@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.5",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.5/ShuzenDaicho-v2.6.5.zip",
-  "sha256": "24afee293162f778b4e03123ad2c2fd79cabd95ed6fc8f373b861a534384ad6a",
-  "size": 68235514,
-  "notes": "現場写真・工事写真の操作欄をコンパクトな2行に整理しました。日付見出しを灰色Roboto Regularの28 DIPに、折りたたみ矢印を従来の2倍に変更しました。月曜から日曜までの「日付（週）」グループを追加しました。フォントは内蔵され、別途インストール不要です。撮影日がない場合は作成日を使用します。保存形式とバックアップ形式の変更はありません。"
+  "version": "2.6.6",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.6/ShuzenDaicho-v2.6.6.zip",
+  "sha256": "e2a22aef25f8e6ada6099563e1d24242f0c9c2113229f7196245688116c923db",
+  "size": 68242448,
+  "notes": "現場写真と工事写真のグループ方式・ファイル種類・折りたたみ状態を別々に自動保存し、再起動後に復元します。動画を実際のフレームのサムネイルで表示し、キャッシュを再利用します。画面の「資料庫専用」表記を削除しました。動画を報告書に使用しない動作は変わりません。Windowsがプレビューできない動画は従来の動画表示に戻ります。"
 }
