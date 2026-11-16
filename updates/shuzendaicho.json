@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.1",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.1/ShuzenDaicho-v2.6.1.zip",
-  "sha256": "8827809d5d6113d3a47da9e6de92a69060d8a715bf13ff4cbe25652691810801",
-  "size": 67922426,
-  "notes": "現場写真・工事写真の両方で動画を選択、フォルダー読み込み、ドロップできます。待機一覧で保存済み物件を指定し、確認すると資料庫へ原本を保存します。両画面に保存済み動画一覧を追加し、物件図面・資料と共通の原本を開く・別名保存できます。動画は報告書や申請書に使用せず、改訂番号を変更しません。未確認の副本は作成しません。"
+  "version": "2.6.2",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.2/ShuzenDaicho-v2.6.2.zip",
+  "sha256": "d0eb3a2ab6e553e7f064f4212d494131b480978c13d7e8b01bd1e94202e3507c",
+  "size": 67929203,
+  "notes": "動画のチェック済み保存で、未指定行を現在の物件または選択した保存済み物件へ登録するよう修正しました。登録済み写真・動画はDBの内容ハッシュで導入一覧から除外し、名前を変えても重複表示しません。現場写真・工事写真にファイル種類フィルターを追加。図面・資料と写真に右クリックでファイルを開く操作、写真に現在モードの表紙への設定を追加しました。動画は資料庫専用、改訂番号と既存書式は保持します。"
 }
