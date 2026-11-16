@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.4",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.4/ShuzenDaicho-v2.6.4.zip",
-  "sha256": "8173205d9dfcce60789be4422edd545b755b9e0dd0ea329764d770d86d4aaf18",
-  "size": 67961836,
-  "notes": "現場写真・工事写真に日付グループを追加しました。日付（日）／日付（月）／なしを選び、件数付き見出しで個別・一括の展開と折りたたみができます。写真の撮影日を優先し、ない場合はファイル作成日を使用します。動画は作成日でまとめます。新規取込と完全バックアップ・復元で作成日を保持します。ファイル種類・写真分類の絞り込みと複数選択は引き続き使用できます。"
+  "version": "2.6.5",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.5/ShuzenDaicho-v2.6.5.zip",
+  "sha256": "24afee293162f778b4e03123ad2c2fd79cabd95ed6fc8f373b861a534384ad6a",
+  "size": 68235514,
+  "notes": "現場写真・工事写真の操作欄をコンパクトな2行に整理しました。日付見出しを灰色Roboto Regularの28 DIPに、折りたたみ矢印を従来の2倍に変更しました。月曜から日曜までの「日付（週）」グループを追加しました。フォントは内蔵され、別途インストール不要です。撮影日がない場合は作成日を使用します。保存形式とバックアップ形式の変更はありません。"
 }
