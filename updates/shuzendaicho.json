@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.0/ShuzenDaicho-v2.6.0.zip",
-  "sha256": "fe3d675e9d8028403677c715c9fb62b0383a8d482565121e90dbc28b7361cfd0",
-  "size": 67913204,
-  "notes": "未確認写真はパスと分類情報のみ保存し、副本を作成しません。画像は元の形式で名前を付けて保存、PDFはページ単位PNG出力を維持します。動画を資料庫だけに自動保存し、報告書・申請書には使用しません。動画の別名保存、物件複製、完全バックアップとフォルダー移動に対応します。既存のExcel書式と原本を保持します。旧版のPendingOriginalsは自動削除しません。"
+  "version": "2.6.1",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.1/ShuzenDaicho-v2.6.1.zip",
+  "sha256": "8827809d5d6113d3a47da9e6de92a69060d8a715bf13ff4cbe25652691810801",
+  "size": 67922426,
+  "notes": "現場写真・工事写真の両方で動画を選択、フォルダー読み込み、ドロップできます。待機一覧で保存済み物件を指定し、確認すると資料庫へ原本を保存します。両画面に保存済み動画一覧を追加し、物件図面・資料と共通の原本を開く・別名保存できます。動画は報告書や申請書に使用せず、改訂番号を変更しません。未確認の副本は作成しません。"
 }
