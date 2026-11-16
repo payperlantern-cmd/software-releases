@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.4.3",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.4.3/ShuzenDaicho-v2.4.3.zip",
-  "sha256": "172332f2a91b05198d20c65dac63db73a7691a1df16aca8c2ca0b67fffde321e",
-  "size": 67884578,
-  "notes": "更新のタイムアウトと中止を区別し、ダウンロード失敗時の案内を日本語に統一しました。保存確認後の中止も反映します。工事分類の入力画面と、主要ボタンのマウス操作・無効状態の表示を修正しました。データ形式とExcel書式は変更していません。"
+  "version": "2.5.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.5.0/ShuzenDaicho-v2.5.0.zip",
+  "sha256": "db036bd2a4d08c93a9399adeabc0f2268a8bd704d02521b6db846f54f739e50a",
+  "size": 67900884,
+  "notes": "写真・資料を追加すると自動保存し、改訂番号を変更しません。写真や資料はサムネイルをダブルクリックして開けます。PDFの再表示にキャッシュを利用し、道路使用許可申請書は元の印字を保持して空欄だけに記入します。入力はプレビューに自動反映し、保存したPDFの副本を物件図面・資料に自動保存します。既存のExcel書式とデータを保持します。"
 }
