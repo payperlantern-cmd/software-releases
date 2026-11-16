@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.3",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.3/ShuzenDaicho-v2.6.3.zip",
-  "sha256": "c5c2c935a274265810ff8d15710aea6180f9b79e6ad9d1082acb1d368c9af10c",
-  "size": 67944961,
-  "notes": "バックアップ・復元の進捗ウィンドウを追加しました。現場写真・工事写真の初回追加時に元ファイルの扱いを選び、設定から削除する／削除しない／毎回確認するを変更できます。削除は新規保存と内容照合が成功した元ファイルだけが対象です。入口を現場写真をインポート／工事写真をインポートに変更し、閲覧ページにも写真・動画のフィルターを追加しました。動画は資料庫専用です。新しい完全バックアップの復元には2.6.3以降を使用してください。"
+  "version": "2.6.4",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.4/ShuzenDaicho-v2.6.4.zip",
+  "sha256": "8173205d9dfcce60789be4422edd545b755b9e0dd0ea329764d770d86d4aaf18",
+  "size": 67961836,
+  "notes": "現場写真・工事写真に日付グループを追加しました。日付（日）／日付（月）／なしを選び、件数付き見出しで個別・一括の展開と折りたたみができます。写真の撮影日を優先し、ない場合はファイル作成日を使用します。動画は作成日でまとめます。新規取込と完全バックアップ・復元で作成日を保持します。ファイル種類・写真分類の絞り込みと複数選択は引き続き使用できます。"
 }
