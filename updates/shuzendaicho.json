@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.7.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.7.0/ShuzenDaicho-v2.7.0.zip",
-  "sha256": "078f7cf8ce4fb48b1a65341d059a0bd725c4881b4cd670b30eb0419a9db8977e",
-  "size": 73068003,
-  "notes": "現場写真にローカル認識と確認済み分類からの学習を追加しました。候補を確認してから適用し、写真は外部送信しません。見積書モードでは修繕Estimateの計算・Excel・台帳・テンプレートを再利用し、物件ごとに保存・履歴・バックアップできます。初回認識は別途約9.7MiBモデルとMicrosoft VC++v14x64が必要です。CUDA拡張とCUDA13/cuDNN9は任意の別構成。見積書を含む形式4のデータ・バックアップには2.7.0以降が必要です。"
+  "version": "2.7.1",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.7.1/ShuzenDaicho-v2.7.1.zip",
+  "sha256": "88282b9c15794bd0a0c3accd13a087f6bad8bfced709f005d5e28d3456ae2271",
+  "size": 73072667,
+  "notes": "終了時のメインウィンドウのサイズ・位置・最大化状態、プロジェクト欄の幅、最後の保存済み物件・モード・ページを次回起動時に復元します。各モードのページも個別に記憶します。最小化で終了しても元の通常／最大化状態で開き、画面外の位置や削除済み物件・ページは安全に補正します。操作設定は報告書と別に保存し、終了キャンセル・未保存内容の破棄を尊重します。操作設定を含む完全バックアップの復元には2.7.1以降を使用してください。"
 }
