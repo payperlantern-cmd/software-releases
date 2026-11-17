@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.6",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.6/ShuzenDaicho-v2.6.6.zip",
-  "sha256": "e2a22aef25f8e6ada6099563e1d24242f0c9c2113229f7196245688116c923db",
-  "size": 68242448,
-  "notes": "現場写真と工事写真のグループ方式・ファイル種類・折りたたみ状態を別々に自動保存し、再起動後に復元します。動画を実際のフレームのサムネイルで表示し、キャッシュを再利用します。画面の「資料庫専用」表記を削除しました。動画を報告書に使用しない動作は変わりません。Windowsがプレビューできない動画は従来の動画表示に戻ります。"
+  "version": "2.6.7",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.7/ShuzenDaicho-v2.6.7.zip",
+  "sha256": "8fce3dabef91ac3f6ffd2c0cbbce4e7eb34d96568809d9225b587323361a95c7",
+  "size": 68249626,
+  "notes": "物件図面・資料に「すべて／写真／PDF／動画」の絞り込みと、動画の「削除（ごみ箱へ移動）」を追加しました。削除はすぐに保存され、改訂番号と編集中の報告書は変わりません。動画は物件別の独立ファイルとして保存・複製し、他の物件には影響しません。旧動画は初回読込時に照合してコピーし、旧共用ファイルは復旧用に保持します。新しい動画保存形式は2.6.7以降をご利用ください。"
 }
