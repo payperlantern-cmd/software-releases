@@ -1,10 +1,10 @@
 {
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.0/NikkeArenaStudio-0.2.0-win-x64.zip",
-  "notes": "Account sidebar and horizontal workspace pages; compact portable folders; verified online updates with restart and rollback. Existing account Data is preserved. Arena simulation remains experimental.",
-  "sha256": "49c9ab1c04226096967ba83410dc1c266106ba5ffab43d9d40342254d126bc8d",
-  "schema": 1,
-  "version": "0.2.0",
+  "sha256": "7a906d9066ca44c25245d2f846e1d390b397cd79a2b490325be7ed55c8ed7c27",
+  "size": 108366516,
+  "version": "0.2.1",
   "product": "NikkeArenaStudio",
-  "size": 108343444,
-  "repository": "payperlantern-cmd/software-releases"
+  "schema": 1,
+  "repository": "payperlantern-cmd/software-releases",
+  "notes": "Japanese and Chinese interface selection with immediate switching and portable preference persistence. Preserves account names, team selections and unsaved numeric edits. Battle calculations and experimental model coverage are unchanged.",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.1/NikkeArenaStudio-0.2.1-win-x64.zip"
 }
