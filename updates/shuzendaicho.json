@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.13",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.13/ShuzenDaicho-v2.6.13.zip",
-  "sha256": "8f669bed7b5dbdc11612d5f0eb78188fc36e72369a45ffcf31d1a176d832958d",
-  "size": 68533481,
-  "notes": "写真台紙の説明欄を極細線、判定欄の外枠を中太線に修正しました。診断総評の選択Cは明るい赤とし、見出し枠の色と太さを参考原稿に合わせました。写真・全文・改ページ・工事完了報告書の書式を保持します。EPSON字体は同梱・自動導入せず、印刷PCのフォントを使用します。"
+  "version": "2.7.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.7.0/ShuzenDaicho-v2.7.0.zip",
+  "sha256": "078f7cf8ce4fb48b1a65341d059a0bd725c4881b4cd670b30eb0419a9db8977e",
+  "size": 73068003,
+  "notes": "現場写真にローカル認識と確認済み分類からの学習を追加しました。候補を確認してから適用し、写真は外部送信しません。見積書モードでは修繕Estimateの計算・Excel・台帳・テンプレートを再利用し、物件ごとに保存・履歴・バックアップできます。初回認識は別途約9.7MiBモデルとMicrosoft VC++v14x64が必要です。CUDA拡張とCUDA13/cuDNN9は任意の別構成。見積書を含む形式4のデータ・バックアップには2.7.0以降が必要です。"
 }
