@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NikkeArenaStudio",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "0.2.4",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.4/NikkeArenaStudio-0.2.4-win-x64.zip",
-  "sha256": "753f25c0a869fae08a7597ef84b31cc276975bae04cd513f9ff06f62b36c2cf0",
-  "size": 109514030,
-  "notes": "Labeled language/theme selectors, stable bilingual control positions, uniform text size and a right-workspace log. Account context menu supports independent duplication, renaming and confirmed permanent deletion. Per-account SQLite databases migrate legacy account inputs; all old shared simulation records are permanently deleted as requested. Account builds and browser sessions are preserved on upgrade. Experimental battle scope is unchanged."
+  "version": "0.2.5",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.5/NikkeArenaStudio-0.2.5-win-x64.zip",
+  "sha256": "7c17aeb32fd23a917cdb37c81477aa06ebbd33b57969cb3af20d0e5e48563d16",
+  "size": 109515284,
+  "notes": "Includes the new labeled language/theme selectors, stable bilingual layout, right-workspace log and independent SQLite account databases with copy/rename/permanent delete. Corrects active unsaved-edit preservation when deleting another account; deleting the last account clears all related interface state. Legacy shared simulation records are permanently removed as requested; existing account builds and login data are preserved on migration."
 }
