@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.9",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.9/ShuzenDaicho-v2.6.9.zip",
-  "sha256": "c032fb845906da5dbdbdd178b8755db24c1a90a678308c04bdb582c8d3d7c78b",
-  "size": 68507931,
-  "notes": "平面ミニマルデザインのアイコンに変更。図面・資料、現場写真、工事写真の動画を別々に保存し、片方の削除が他へ影響しないよう修正しました。元のファイル名を保持し、同名の別内容は番号付きで保存します。旧動画は照合して移行します。移行後のデータ・バックアップは2.6.9以降で開いてください。"
+  "version": "2.6.10",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.10/ShuzenDaicho-v2.6.10.zip",
+  "sha256": "4b8f8ad284f3c9b22a46aa0aea2756b16e1f45b39b7c9a72d34301033813759e",
+  "size": 68516061,
+  "notes": "全景写真・写真台紙の写真差し替えで、現在の物件の現場写真フォルダーを開きます。Windows写真選択画面の右クリックで終了する問題を修正しました。旧.NET Framework製シェル拡張との互換性のため、本アプリのCETハードウェアスタック保護を無効にする構成です。Windows全体の設定やデータ形式は変更しません。"
 }
