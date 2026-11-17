@@ -1,10 +1,10 @@
 {
-  "sha256": "7a906d9066ca44c25245d2f846e1d390b397cd79a2b490325be7ed55c8ed7c27",
-  "size": 108366516,
-  "version": "0.2.1",
-  "product": "NikkeArenaStudio",
   "schema": 1,
+  "product": "NikkeArenaStudio",
   "repository": "payperlantern-cmd/software-releases",
-  "notes": "Japanese and Chinese interface selection with immediate switching and portable preference persistence. Preserves account names, team selections and unsaved numeric edits. Battle calculations and experimental model coverage are unchanged.",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.1/NikkeArenaStudio-0.2.1-win-x64.zip"
+  "version": "0.2.2",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.2/NikkeArenaStudio-0.2.2-win-x64.zip",
+  "sha256": "ab62f533b5d5ff8cf1810dcde4a5f10283e45748764bae34fc415cfa17df0da8",
+  "size": 108385547,
+  "notes": "Refined workbench layout with compact task feedback, grouped settings and focused 20-second evaluation. Remembers window, account, page and sidebar width. Preserves pending edits during navigation, with exit/update protection. Chinese and Japanese supported. Experimental battle calculations are unchanged."
 }
