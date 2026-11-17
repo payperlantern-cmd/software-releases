@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.6.11",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.11/ShuzenDaicho-v2.6.11.zip",
-  "sha256": "5435bab696fd80ecab0e918c5344d76befc05e4cb134e40e307f123586c1514b",
-  "size": 68532358,
-  "notes": "写真の右クリックに左右90°回転、全景写真・写真台紙に比率固定トリミングを追加しました。原本を保持し、編集結果を改訂番号を増やさず自動保存します。現場写真・工事写真の向きは報告書追加と完全バックアップにも引き継がれます。編集後のデータは2.6.11以降で使用してください。"
+  "version": "2.6.12",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.6.12/ShuzenDaicho-v2.6.12.zip",
+  "sha256": "4a4659189865b4a347fc6d8c049989f33dfbadee2d352753f652fb26cdfba1b9",
+  "size": 68534114,
+  "notes": "調査報告書のExcel字体・字号・列幅・写真配置・印刷余白を参考書式に合わせて調整し、写真グループの途中改ページを修正しました。画面の診断レポートを調査報告書、トリミングを切り取るへ変更。浅色・暗色テーマの選択文字を読みやすくしました。参考字体が未導入の場合はExcelの代替字体を使います。元画像と文章、工事完了報告書の書式を保持します。"
 }
