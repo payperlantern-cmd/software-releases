@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.0/NikkeArenaStudio-0.2.0-win-x64.zip",
+  "notes": "Account sidebar and horizontal workspace pages; compact portable folders; verified online updates with restart and rollback. Existing account Data is preserved. Arena simulation remains experimental.",
+  "sha256": "49c9ab1c04226096967ba83410dc1c266106ba5ffab43d9d40342254d126bc8d",
+  "schema": 1,
+  "version": "0.2.0",
+  "product": "NikkeArenaStudio",
+  "size": 108343444,
+  "repository": "payperlantern-cmd/software-releases"
+}
