@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NikkeArenaStudio",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "0.2.3",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.3/NikkeArenaStudio-0.2.3-win-x64.zip",
-  "sha256": "45f27d6d54d353d3964a0508955b38c106ca20eb47189b37e6372810f69d33b8",
-  "size": 108393780,
-  "notes": "Upper-right settings, appearance and language controls with a separate settings/update window. Upper-left account creation and a resizable account list. Dedicated resizable log with automatic latest-message scrolling. Dark/light/system appearance and portable workspace preferences. Experimental battle calculations are unchanged."
+  "version": "0.2.4",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.2.4/NikkeArenaStudio-0.2.4-win-x64.zip",
+  "sha256": "753f25c0a869fae08a7597ef84b31cc276975bae04cd513f9ff06f62b36c2cf0",
+  "size": 109514030,
+  "notes": "Labeled language/theme selectors, stable bilingual control positions, uniform text size and a right-workspace log. Account context menu supports independent duplication, renaming and confirmed permanent deletion. Per-account SQLite databases migrate legacy account inputs; all old shared simulation records are permanently deleted as requested. Account builds and browser sessions are preserved on upgrade. Experimental battle scope is unchanged."
 }
