@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.8",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.8/ShuzenDaicho-v2.8.8.zip",
-  "sha256": "c0f79fe9dc31370c028d662d70b04e962c9512624ed3fae281ba97917750504a",
-  "size": 73143135,
-  "notes": "物件図面・資料のPDFページを複数選択し、右クリックでまとめてPNG保存できるようになりました。全選択・選択解除、指定dpi、同名ファイルの連番保存、進捗表示と中止に対応します。元の資料と報告書の改訂番号は変更しません。"
+  "version": "2.8.9",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.9/ShuzenDaicho-v2.8.9.zip",
+  "sha256": "daa410a27cd934a5e6ba9743fcecd4d608983d0c799fd22108b371a819a1e75d",
+  "size": 73144353,
+  "notes": "PDFプレビューをクリックして選択できるようになりました。Ctrl＋クリックで追加・解除、Shift＋クリックで連続選択、Ctrl＋Shiftで範囲追加に対応します。ダブルクリックで原本を開く操作と右クリックの一括PNG保存は従来どおりです。"
 }
