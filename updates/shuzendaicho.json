@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.2",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.2/ShuzenDaicho-v2.8.2.zip",
-  "sha256": "83ab512f3dfade81b35ab715f68ba7f63e5dfb29e682ace6f65c8514e6cc880f",
-  "size": 73106712,
-  "notes": "見積明細の数量を空欄に戻して保存・終了できるよう修正しました。数量セルのDeleteキーで数量だけを消去できます。Excel出力時に空欄明細を含めるか毎回確認し、設定で「毎回確認する／常に出力する／出力しない」を変更できます。数量0は引き続き除外し、編集内容と改訂番号を保持します。"
+  "version": "2.8.3",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.3/ShuzenDaicho-v2.8.3.zip",
+  "sha256": "9bfc23261ed35ebefc6df40720a3063d10bfd045f5d3dcf8f249a780bf6cb674",
+  "size": 73110374,
+  "notes": "診断総評・全景写真・写真台紙のリスト項目に「複製」「削除」の右クリックメニューを追加しました。空欄の項目名は「未記入」と表示しますが、報告書やExcelには書き込みません。クリックした項目を対象にし、削除確認と既存の保存動作を保持します。完成写真・工事写真台紙にも対応します。"
 }
