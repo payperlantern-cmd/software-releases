@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.5",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.5/ShuzenDaicho-v2.8.5.zip",
-  "sha256": "31274eb3d6a0ab6d0b167faa23a1623674725d442388fe6941e1f52dd907a426",
-  "size": 73124853,
-  "notes": "見積書の主表・内訳をA4横向き・上詰めに修正し、大分類ごとの改ページと続きページの見出しに対応しました。カタログ編集で日付別単価表を表示し、単価項目の右クリック複製・削除を追加しました。既存見積書と旧台帳を保持します。"
+  "version": "2.8.6",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.6/ShuzenDaicho-v2.8.6.zip",
+  "sha256": "55829349d5d62e5eac2b164df1dcc41902b5b91852a11844b62fc27f238d81ff",
+  "size": 73133170,
+  "notes": "単価表のダーク表示で明細が白くなる不具合を修正しました。左側の単価表を右クリックして、単価表全体の複製・削除ができます。複製後は更新日と名前を確認して保存してください。削除しても保存済みの見積書と過去単価は保持します。単価表全体を削除した後のデータ・バックアップには2.8.6以降が必要です。"
 }
