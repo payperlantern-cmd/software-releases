@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.0/ShuzenDaicho-v2.8.0.zip",
-  "sha256": "66ec984229f9d92bb6031786a18ba523be1969b2bc8c4a9ee4bb9c17cf4c2331",
-  "size": 73090714,
-  "notes": "バックアップ・復元を右上へ移動。見積書に日付別単価表のExcel読込・編集・旧版保存と、更新日ごとの価格照合／切替を追加しました。未登録・複数候補・空白単価は保持します。単価表を参照するプロジェクトと完全バックアップは2.8.0以降で開いてください。"
+  "version": "2.8.1",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.1/ShuzenDaicho-v2.8.1.zip",
+  "sha256": "5ed01e31ead7ed41df6d11fb5c2c46d41375d56ef024b31799c1275ba8e73588",
+  "size": 73098428,
+  "notes": "見積書のExcel出力で数量0の明細を除外（数量空欄・単価0は保持）。図面・資料に保存フォルダーを開くメニューを追加。保存する原本は元のファイル名を保持し、同名ファイルは番号で区別、hashはデータベースで管理します。プロジェクトの複製・名前変更・削除・変更履歴は項目の右クリックメニューへ移しました。短い見積書を再読込後に出力する処理も修正しました。"
 }
