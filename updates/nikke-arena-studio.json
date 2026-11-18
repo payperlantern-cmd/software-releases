@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NikkeArenaStudio",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "0.3.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.3.0/NikkeArenaStudio-0.3.0-win-x64.zip",
-  "sha256": "d61d036ebd3741a819e189010d3ca4d388ac09e5a08a60200ed169a523397fac",
-  "size": 109682181,
-  "notes": "新增账号独立的1v1/3v3编队保存与Counter编队导入、可更新的来源组合库、本地养成套用与20秒验证；补充鲁玛尼技能。BlablaLink尚不提供游戏当前竞技场编队；观测组合不是日服排名，实验结果不是实战胜率。"
+  "version": "0.4.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikke-arena-studio-v0.4.0/NikkeArenaStudio-0.4.0-win-x64.zip",
+  "sha256": "11af5ef485537442fc0b9404585ba397f91f2ec445f9d39069cb9c933255de09",
+  "size": 109697489,
+  "notes": "采用 WinUI3 Type1 重制界面：紧凑标题栏、细线分页、独立深浅色、12/11 DIP文字；新增摘要、日志、置顶和复制工具栏，语言配色移至设置。保留账号、编队、推荐与实验模拟功能。"
 }
