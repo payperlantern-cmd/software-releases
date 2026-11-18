@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.7.1",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.7.1/ShuzenDaicho-v2.7.1.zip",
-  "sha256": "88282b9c15794bd0a0c3accd13a087f6bad8bfced709f005d5e28d3456ae2271",
-  "size": 73072667,
-  "notes": "終了時のメインウィンドウのサイズ・位置・最大化状態、プロジェクト欄の幅、最後の保存済み物件・モード・ページを次回起動時に復元します。各モードのページも個別に記憶します。最小化で終了しても元の通常／最大化状態で開き、画面外の位置や削除済み物件・ページは安全に補正します。操作設定は報告書と別に保存し、終了キャンセル・未保存内容の破棄を尊重します。操作設定を含む完全バックアップの復元には2.7.1以降を使用してください。"
+  "version": "2.8.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.0/ShuzenDaicho-v2.8.0.zip",
+  "sha256": "66ec984229f9d92bb6031786a18ba523be1969b2bc8c4a9ee4bb9c17cf4c2331",
+  "size": 73090714,
+  "notes": "バックアップ・復元を右上へ移動。見積書に日付別単価表のExcel読込・編集・旧版保存と、更新日ごとの価格照合／切替を追加しました。未登録・複数候補・空白単価は保持します。単価表を参照するプロジェクトと完全バックアップは2.8.0以降で開いてください。"
 }
