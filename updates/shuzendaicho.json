@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.3",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.3/ShuzenDaicho-v2.8.3.zip",
-  "sha256": "9bfc23261ed35ebefc6df40720a3063d10bfd045f5d3dcf8f249a780bf6cb674",
-  "size": 73110374,
-  "notes": "診断総評・全景写真・写真台紙のリスト項目に「複製」「削除」の右クリックメニューを追加しました。空欄の項目名は「未記入」と表示しますが、報告書やExcelには書き込みません。クリックした項目を対象にし、削除確認と既存の保存動作を保持します。完成写真・工事写真台紙にも対応します。"
+  "version": "2.8.4",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.4/ShuzenDaicho-v2.8.4.zip",
+  "sha256": "d9e3254ebadc071f1e465bc476accc501fc754705c26d9c88a56a07c49bbe2dd",
+  "size": 73119203,
+  "notes": "Strict Open XML形式の見積書読込と、読込失敗後に終了できない問題を修正しました。起動済みの場合は通知を出さず既存の画面を前面に戻し、最小化・ダイアログ・未保存内容を保持します。"
 }
