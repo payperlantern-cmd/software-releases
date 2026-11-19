@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.10",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.10/ShuzenDaicho-v2.8.10.zip",
-  "sha256": "cbe8705271758d42bf4c03303263d4d188f2ea2f13a397f5ff2f269ba2c6335b",
-  "size": 73149577,
-  "notes": "保存済みの現場写真・工事写真を回転すると、元ファイル名のまま画像とSHA256を更新します。回転前のhashも重複判定に保持。切り取りは完全な原画像を残し副本を報告書に保存します。内容変更のある旧写真があっても取込画面を開けるよう修正し、該当写真を保持して要確認として表示します。JPEG回転は品質100の再エンコードです。"
+  "version": "2.8.11",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.11/ShuzenDaicho-v2.8.11.zip",
+  "sha256": "6a1e0b9cbc5ada484eda0c799e77f8c7a890f09a3fb97ca06cc00b54f475ca67",
+  "size": 73158963,
+  "notes": "JPEGの回転をWindowsエクスプローラーと同じEXIF方向情報の更新方式に変更。画像を再圧縮せず、繰り返し回転しても画質を維持します。端の切り捨てや解像度変更はありません。保存後のSHA256更新、元ファイル名、重複判定、書込失敗時の復旧を維持。PNGは従来どおり無損失で保存します。"
 }
