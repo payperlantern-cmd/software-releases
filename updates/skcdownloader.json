@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "SKCDownloader",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "1.8.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v1.8.0/SKCDownloader-v1.8.0.zip",
-  "size": 90560659,
-  "sha256": "13c8df8abc6c908d6522d6d19b74a7ef0baae803141e23a7e5d21852f63b92ed",
-  "notes": "Faster incremental list updates with bounded concurrent metadata reads and unchanged-source caching. Committed projects stay visible during updates and after cancellation. Resizable remembered details pane, visible column grips, stable previews and external image opening on double-click. Simplified cookie settings and readable List update status. Existing databases, backups and settings are preserved; site access and request-interval limits remain."
+  "version": "2.0.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v2.0.0/SKCDownloader-v2.0.0.zip",
+  "size": 154872941,
+  "sha256": "58b5a807fb518d6cacf469d6e95425abfe00381dd2cf1da9d18bfdf949f3c11f",
+  "notes": "Native Type1 interface with separate Local browser and Download tasks. Search saved project overviews, inspect images and open local folders while downloads continue. Independent selections, infinite scrolling, live filters, adjustable columns/details and portable view preferences. Existing databases, backups and updater compatibility are preserved."
 }
