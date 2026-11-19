@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.12",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.12/ShuzenDaicho-v2.8.12.zip",
-  "sha256": "73004b75b4830cff22480299238b72c9dddb28539d8e040c1ac8c1bd4e0ac10a",
-  "size": 73161906,
-  "notes": "エラー後にメイン画面を閉じてもプロセスが残る問題と、更新時のプロセス確認を修正しました。未保存確認・データ・Excel書式を保持します。旧版で更新エラーが続く場合は、本版ZIPの5ファイルを同じソフトフォルダーへ上書きしてください。データベース・写真・設定は削除しないでください。"
+  "version": "2.8.13",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.13/ShuzenDaicho-v2.8.13.zip",
+  "sha256": "d8b61f6b443ac3181b54b0ef0f534099d395431ca562c62f84da7ffc22d12dbe",
+  "size": 73168234,
+  "notes": "更新完了後、メイン画面が正常表示されたら、更新ZIP・展開ファイル・補助プログラム・更新用の旧版控えを自動清掃します。使用中の一時ファイルはバックグラウンドで再試行し、途中の清掃も再開できます。更新失敗・復旧中・未完了・想定外のファイルがあるフォルダーは保持します。写真・資料・設定・データベース・通常バックアップは対象外です。"
 }
