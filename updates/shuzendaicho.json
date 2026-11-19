@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.13",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.13/ShuzenDaicho-v2.8.13.zip",
-  "sha256": "d8b61f6b443ac3181b54b0ef0f534099d395431ca562c62f84da7ffc22d12dbe",
-  "size": 73168234,
-  "notes": "更新完了後、メイン画面が正常表示されたら、更新ZIP・展開ファイル・補助プログラム・更新用の旧版控えを自動清掃します。使用中の一時ファイルはバックグラウンドで再試行し、途中の清掃も再開できます。更新失敗・復旧中・未完了・想定外のファイルがあるフォルダーは保持します。写真・資料・設定・データベース・通常バックアップは対象外です。"
+  "version": "2.8.14",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.14/ShuzenDaicho-v2.8.14.zip",
+  "sha256": "8478d497655a9337cc1b3c6444d36ca7d7a75a244c71b46071e63fd419a920bc",
+  "size": 73172563,
+  "notes": "写真の「分類を編集」に「確定」「キャンセル」を追加しました。「確定」は入力中の分類名を登録・変更して閉じます。「キャンセル」は未登録の入力を破棄し、明示的に登録・変更・削除した内容は保持します。保存に失敗した場合は画面を閉じません。"
 }
