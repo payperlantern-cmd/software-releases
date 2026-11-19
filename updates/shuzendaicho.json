@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.9",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.9/ShuzenDaicho-v2.8.9.zip",
-  "sha256": "daa410a27cd934a5e6ba9743fcecd4d608983d0c799fd22108b371a819a1e75d",
-  "size": 73144353,
-  "notes": "PDFプレビューをクリックして選択できるようになりました。Ctrl＋クリックで追加・解除、Shift＋クリックで連続選択、Ctrl＋Shiftで範囲追加に対応します。ダブルクリックで原本を開く操作と右クリックの一括PNG保存は従来どおりです。"
+  "version": "2.8.10",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.10/ShuzenDaicho-v2.8.10.zip",
+  "sha256": "cbe8705271758d42bf4c03303263d4d188f2ea2f13a397f5ff2f269ba2c6335b",
+  "size": 73149577,
+  "notes": "保存済みの現場写真・工事写真を回転すると、元ファイル名のまま画像とSHA256を更新します。回転前のhashも重複判定に保持。切り取りは完全な原画像を残し副本を報告書に保存します。内容変更のある旧写真があっても取込画面を開けるよう修正し、該当写真を保持して要確認として表示します。JPEG回転は品質100の再エンコードです。"
 }
