@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.11",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.11/ShuzenDaicho-v2.8.11.zip",
-  "sha256": "6a1e0b9cbc5ada484eda0c799e77f8c7a890f09a3fb97ca06cc00b54f475ca67",
-  "size": 73158963,
-  "notes": "JPEGの回転をWindowsエクスプローラーと同じEXIF方向情報の更新方式に変更。画像を再圧縮せず、繰り返し回転しても画質を維持します。端の切り捨てや解像度変更はありません。保存後のSHA256更新、元ファイル名、重複判定、書込失敗時の復旧を維持。PNGは従来どおり無損失で保存します。"
+  "version": "2.8.12",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.12/ShuzenDaicho-v2.8.12.zip",
+  "sha256": "73004b75b4830cff22480299238b72c9dddb28539d8e040c1ac8c1bd4e0ac10a",
+  "size": 73161906,
+  "notes": "エラー後にメイン画面を閉じてもプロセスが残る問題と、更新時のプロセス確認を修正しました。未保存確認・データ・Excel書式を保持します。旧版で更新エラーが続く場合は、本版ZIPの5ファイルを同じソフトフォルダーへ上書きしてください。データベース・写真・設定は削除しないでください。"
 }
