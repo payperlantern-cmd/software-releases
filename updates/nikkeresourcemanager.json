@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "NIKKEResourceManager",
+  "repository": "payperlantern-cmd/software-releases",
+  "version": "1.16.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v1.16.0/NIKKEResourceManager-v1.16.0.zip",
+  "sha256": "ae4993c5a8922840906e966742bd95c6943e0e29d4b4c087b9a9f61754ec062d",
+  "size": 234496689,
+  "notes": "修复备份目录自动恢复默认值；解包与备份目录独立保存。右上角新增设置和在线更新。\nFix backup folder persistence; separate extraction/backup settings and add online updates.\nバックアップ先の保存を修正。展開先を分離し、設定とオンライン更新を追加。"
+}
