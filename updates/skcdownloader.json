@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "SKCDownloader",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v2.0.0/SKCDownloader-v2.0.0.zip",
-  "size": 154872941,
-  "sha256": "58b5a807fb518d6cacf469d6e95425abfe00381dd2cf1da9d18bfdf949f3c11f",
-  "notes": "Native Type1 interface with separate Local browser and Download tasks. Search saved project overviews, inspect images and open local folders while downloads continue. Independent selections, infinite scrolling, live filters, adjustable columns/details and portable view preferences. Existing databases, backups and updater compatibility are preserved."
+  "version": "2.1.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v2.1.0/SKCDownloader-v2.1.0.zip",
+  "size": 154882896,
+  "sha256": "12f503c3364b1c2460a49a5eafcd8b9976ce59adc7d55c30aba6e581ed6290de",
+  "notes": "Local browser now supports list and thumbnail modes for projects and saved files. Adjust thumbnail size and restore the last mode and size on restart. Verified local previews load lazily, with infinite scrolling and clear missing-file fallback. Search, selection and browsing during downloads remain available; existing portable archives and online updates are preserved."
 }
