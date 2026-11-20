@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.19",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.19/ShuzenDaicho-v2.8.19.zip",
-  "sha256": "4bc062d6b2a3a96a1773fac86c4ec11f471e781466c4d23c54a987ed35474832",
-  "size": 73206930,
-  "notes": "現場写真・工事写真に「選択を解除」を追加しました。「グループ化」の左側で日付・名前・追加順を昇順／降順に並べ替えられます。写真・動画の並び順を維持し、現場写真と工事写真でそれぞれ記憶します。"
+  "version": "2.8.20",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.20/ShuzenDaicho-v2.8.20.zip",
+  "sha256": "7f01062727a57c6f878793e9ef3a446dc41ae7bbe740bd3bfef77441bddd8ae5",
+  "size": 73210660,
+  "notes": "調査報告書の印刷倍率をA4用紙に収まるよう調整し、上下左右の中央に配置しました。写真台紙・全景写真の改ページを保持し、最終ページの空白を印刷範囲から除外します。所在地の5-13などの数字が途中で改行される問題を修正しました。"
 }
