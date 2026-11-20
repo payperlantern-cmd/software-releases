@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "SKCDownloader",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.2.1",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v2.2.1/SKCDownloader-v2.2.1.zip",
-  "size": 154901149,
-  "sha256": "55c9c907cd68b8388b3f04960e8f92f1ab74c269ae3e67e329971c242aab310b",
-  "notes": "After a successful online upgrade and confirmed restart, automatically remove that update package, staging files and previous-program backup. Preserve failed or unconfirmed update jobs, recovery files and all user data. Locked cleanup files retry safely, with pending cleanup retried on a later launch. Existing browsing, original filenames and persistent thumbnails are preserved."
+  "version": "2.3.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/skcdownloader-v2.3.0/SKCDownloader-v2.3.0.zip",
+  "size": 154901740,
+  "sha256": "56081865ffee2071f8bfd6aaa35df51ad2fe9b68376b4d289667be7df6dc3bf8",
+  "notes": "Download lists support Shift range selection, native row highlighting and Clear selection, including projects hidden by filters. Checkboxes and submitted rows stay synchronized across refresh and infinite loading. Backups automatically skip verified completed projects and report their count; missing, corrupt and partial files still resume. Completed-only batches need no browser-cookie or network session. Preserve portable data, original filenames, independent browsing and successful-update cleanup."
 }
