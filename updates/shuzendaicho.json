@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.14",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.14/ShuzenDaicho-v2.8.14.zip",
-  "sha256": "8478d497655a9337cc1b3c6444d36ca7d7a75a244c71b46071e63fd419a920bc",
-  "size": 73172563,
-  "notes": "写真の「分類を編集」に「確定」「キャンセル」を追加しました。「確定」は入力中の分類名を登録・変更して閉じます。「キャンセル」は未登録の入力を破棄し、明示的に登録・変更・削除した内容は保持します。保存に失敗した場合は画面を閉じません。"
+  "version": "2.8.15",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.15/ShuzenDaicho-v2.8.15.zip",
+  "sha256": "4c3fbf17b037340e668d0b4f8f92df7537f1526e6e00a75eb4948ed746f7674c",
+  "size": 73180570,
+  "notes": "現場写真・工事写真を分類すると「分類名_元のファイル名」に更新します。分類変更時は前の接頭辞を置き換え、未分類では元の名前に戻します。「分類を編集」の「確定」は写真庫全体を最新の分類と照合します。同名は連番で区別し、取込元・画像内容・hashは変更しません。"
 }
