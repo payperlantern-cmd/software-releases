@@ -2,9 +2,13 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.16",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.16/ShuzenDaicho-v2.8.16.zip",
-  "sha256": "68f8dc747e848dbd45540f7f2012f68ddcfbde2a95fa492c49953b577d00ea0f",
-  "size": 73186773,
-  "notes": "現場写真・工事写真に「分類」グループを追加し、展開・折りたたみと次回起動時の状態復元に対応しました。「さらに表示」は廃止し、スクロールで自動読み込みします。分類保存後の写真名警告は一度閉じると編集画面も閉じます。写真名の確認・変更は現在の物件だけが対象です。"
+  "version": "2.8.17",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.17/ShuzenDaicho-v2.8.17.zip",
+  "sha256": "f167d9620c6abf912c22f584f6a7d1f1074522c96ae33ab4b27d5e61901fca5b",
+  "size": 73195743,
+  "notes": [
+    "分類確認時に保存写真のhashを再計算し、最新の分類名でファイル名を更新します。",
+    "原本がない写真の現在の登録・照合情報を整理し、他物件や正常な写真を保持します。",
+    "前回の現場写真・工事写真ページを復元して起動した際に、読み込みのまま写真が表示されない問題を修正しました。"
+  ]
 }
