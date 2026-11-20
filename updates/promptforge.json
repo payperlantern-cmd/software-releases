@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "PromptForge",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.19.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.19.0/PromptForge-v2.19.0.zip",
-  "sha256": "6bff0840c5d9d9c1d7478517627e05f6fc505eeeceebcec3083ddf110b56caf4",
-  "size": 7327693,
-  "notes": "Add text-only prompt expansion across all six target formats, including H3 T2VA. Preserve input drafts and image references when switching modes. Text runs no longer require mmproj; existing CUDA settings remain unchanged. Locally verified with English and Chinese prompts on RTX 3090 CUDA."
+  "version": "2.20.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.20.0/PromptForge-v2.20.0.zip",
+  "sha256": "eda3569a5a0bfcc80213bad173e08e03b7961a466ece7d1674af597bce20dbab",
+  "size": 7344385,
+  "notes": "Add a three-pane expansion preset manager from the top-right of PromptLens. Edit parameters and requirements, copy/rename/delete custom presets, restore protected built-ins, and use OK/Cancel/Apply with Save/Discard/Cancel navigation. Preserve legacy drafts and image/text generation workflows."
 }
