@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "PromptForge",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.20.0",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.20.0/PromptForge-v2.20.0.zip",
-  "sha256": "eda3569a5a0bfcc80213bad173e08e03b7961a466ece7d1674af597bce20dbab",
-  "size": 7344385,
-  "notes": "Add a three-pane expansion preset manager from the top-right of PromptLens. Edit parameters and requirements, copy/rename/delete custom presets, restore protected built-ins, and use OK/Cancel/Apply with Save/Discard/Cancel navigation. Preserve legacy drafts and image/text generation workflows."
+  "version": "2.20.1",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.20.1/PromptForge-v2.20.1.zip",
+  "sha256": "318f314454f43b111a5c59e00bd2f99ca935e4d46e2b87e2f3fa59796c0a40f5",
+  "size": 7348672,
+  "notes": "Use English factory preset names and safely migrate old names without changing custom names or instructions. Fix localized preset validation messages and language-option labels in Chinese, English and Japanese; retain output-language selection and legacy session drafts."
 }
