@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.18",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.18/ShuzenDaicho-v2.8.18.zip",
-  "sha256": "8052b9ec2bc1a30bfd0c87c42991f59cff21ead119d8664040454081c7f4e12e",
-  "size": 73201767,
-  "notes": "分類の確定処理中に、現在の写真名・処理済み枚数／対象枚数・進捗バーを表示します。原本確認、ファイル名確認・変更、保存の段階が分かります。写真が多い場合も画面を更新し、他物件は対象に含めません。"
+  "version": "2.8.19",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.19/ShuzenDaicho-v2.8.19.zip",
+  "sha256": "4bc062d6b2a3a96a1773fac86c4ec11f471e781466c4d23c54a987ed35474832",
+  "size": 73206930,
+  "notes": "現場写真・工事写真に「選択を解除」を追加しました。「グループ化」の左側で日付・名前・追加順を昇順／降順に並べ替えられます。写真・動画の並び順を維持し、現場写真と工事写真でそれぞれ記憶します。"
 }
