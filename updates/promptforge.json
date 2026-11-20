@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "PromptForge",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.18.1",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.18.1/PromptForge-v2.18.1.zip",
-  "sha256": "629a8a3a4144d7cdab1f3c07962ae3b0b43be5b4265a5d51ddc33d9969e2564f",
-  "size": 7317606,
-  "notes": "Adds CUDA runtime preparation and updates with the matching official CUDA 12.4 DLL package. CUDA is the default for new settings; existing saved backend choices are preserved. Models and generation settings are unchanged. Functional/UI/inference/performance tests were explicitly skipped at user request; build and artifact integrity checks only. No speed improvement is claimed."
+  "version": "2.19.0",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/promptforge-v2.19.0/PromptForge-v2.19.0.zip",
+  "sha256": "6bff0840c5d9d9c1d7478517627e05f6fc505eeeceebcec3083ddf110b56caf4",
+  "size": 7327693,
+  "notes": "Add text-only prompt expansion across all six target formats, including H3 T2VA. Preserve input drafts and image references when switching modes. Text runs no longer require mmproj; existing CUDA settings remain unchanged. Locally verified with English and Chinese prompts on RTX 3090 CUDA."
 }
