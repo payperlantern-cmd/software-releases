@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "PerfOverlay",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "1.0.5",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/perfoverlay-v1.0.5/PerfOverlay-1.0.5-win-x64.zip",
-  "sha256": "fa8b93b7c2c2ba947489efa680b46d300d799b8855299077a8d5848b0662397f",
-  "size": 437457,
-  "notes": "Adds per-GPU core and VRAM temperatures, six saved Displayed metrics checkboxes, compact automatic resizing, and a recoverable hidden-overlay mode. Unsupported temperature sensors show N/A."
+  "version": "1.0.6",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/perfoverlay-v1.0.6/PerfOverlay-1.0.6-win-x64.zip",
+  "sha256": "617cba69b57df2c73166046d351499fda6f664e16f1e48ed3adf11f46188af15",
+  "size": 445143,
+  "notes": "Adds independent usage, VRAM and temperature checkboxes for each GPU, plus saved Left of values or Above values label layouts. Older display choices are preserved; hidden GPU metrics are not polled."
 }
