@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "PerfOverlay",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "1.0.4",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/perfoverlay-v1.0.4/PerfOverlay-1.0.4-win-x64.zip",
-  "sha256": "cb66fe3b12ee1d9d8c039e32a7a78b18931c3a0e6a099767c40aee4f6d92bbdf",
-  "size": 424021,
-  "notes": "Adds simultaneous NVIDIA GPU and VRAM percentages, a compact multi-card strip, and a saved All NVIDIA GPUs or single-card display choice."
+  "version": "1.0.5",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/perfoverlay-v1.0.5/PerfOverlay-1.0.5-win-x64.zip",
+  "sha256": "fa8b93b7c2c2ba947489efa680b46d300d799b8855299077a8d5848b0662397f",
+  "size": 437457,
+  "notes": "Adds per-GPU core and VRAM temperatures, six saved Displayed metrics checkboxes, compact automatic resizing, and a recoverable hidden-overlay mode. Unsupported temperature sensors show N/A."
 }
