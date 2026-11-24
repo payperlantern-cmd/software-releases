@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.21",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.21/ShuzenDaicho-v2.8.21.zip",
-  "sha256": "730fdb1a043dc1d4e7e16133c73ae1f9f37ba89d1b7a96970bb9e5a32c143141",
-  "size": 73215253,
-  "notes": "物件図面・資料の画像・PDF・動画を物件別の独立フォルダーへ保存。元のファイル名・拡張子を保持し、同名ファイルは別の子フォルダーで保存します。複製物件も独立し、削除は他の物件や写真ページに影響しません。旧資料は表示時にコピーを作成し、旧原本は保持します。新しい完全バックアップの復元には2.8.21以降が必要です。"
+  "version": "2.8.22",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.22/ShuzenDaicho-v2.8.22.zip",
+  "sha256": "6b0be1d6b7fd4afe505b58b422942adde54206f70bc897c4c1fba48d25890958",
+  "size": 73232143,
+  "notes": "保存先をArchive／物件名／ページ名／日付／元のファイル名に統一しました。初回起動時に進捗を表示して旧資料を移行し、照合済み旧原本と台帳は復旧用に保持します。物件・ページごとの独立コピー、改名、完全バックアップ・復元に対応。新しいバックアップの復元には2.8.22以降を使用してください。"
 }
