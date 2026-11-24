@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.20",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.20/ShuzenDaicho-v2.8.20.zip",
-  "sha256": "7f01062727a57c6f878793e9ef3a446dc41ae7bbe740bd3bfef77441bddd8ae5",
-  "size": 73210660,
-  "notes": "調査報告書の印刷倍率をA4用紙に収まるよう調整し、上下左右の中央に配置しました。写真台紙・全景写真の改ページを保持し、最終ページの空白を印刷範囲から除外します。所在地の5-13などの数字が途中で改行される問題を修正しました。"
+  "version": "2.8.21",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.21/ShuzenDaicho-v2.8.21.zip",
+  "sha256": "730fdb1a043dc1d4e7e16133c73ae1f9f37ba89d1b7a96970bb9e5a32c143141",
+  "size": 73215253,
+  "notes": "物件図面・資料の画像・PDF・動画を物件別の独立フォルダーへ保存。元のファイル名・拡張子を保持し、同名ファイルは別の子フォルダーで保存します。複製物件も独立し、削除は他の物件や写真ページに影響しません。旧資料は表示時にコピーを作成し、旧原本は保持します。新しい完全バックアップの復元には2.8.21以降が必要です。"
 }
