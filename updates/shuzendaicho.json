@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.23",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.23/ShuzenDaicho-v2.8.23.zip",
-  "sha256": "2dbea53352cd75258d282b968396b35d7d1179f869f8af44da48fef8cf8909fa",
-  "size": 73232973,
-  "notes": "Archive移行時に分類名などの既存ファイル名を保持するよう修正しました。OneDriveのクラウドファイルをリンクと区別し、写真の読み込み、完全バックアップ、更新と更新後の一時ファイル整理に対応しました。実際のリンク・ジャンクションの保護は維持します。"
+  "version": "2.8.24",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.24/ShuzenDaicho-v2.8.24.zip",
+  "sha256": "88ec26e99b3f431ede0c23a8e334012f32c8a2eaee0e4640938d5716e6687c7e",
+  "size": 73235201,
+  "notes": "写真などを含む大きな報告書の保存で「データベースが使用中」となる問題を修正しました。添付資料の自動保存、動画付き物件の複製も修正しました。改訂履歴と未保存の文章は保持します。"
 }
