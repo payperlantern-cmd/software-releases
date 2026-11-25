@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.25",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.25/ShuzenDaicho-v2.8.25.zip",
-  "sha256": "e4e27dd5e11159cc387b3b3e69a7da8e0f16c154d9d21f52fd93eee752a110fc",
-  "size": 73249363,
-  "notes": "報告書の写真・図面などをファイルへ分離し、台帳を軽量化します。初回起動時に復旧用コピーを作成し、照合・移行・空き領域の回収を実行します。改訂番号と内容は保持します。移動はフォルダー全体または完全バックアップを使用してください。新しい台帳とバックアップの読込には2.8.25以降が必要です。"
+  "version": "2.8.26",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.26/ShuzenDaicho-v2.8.26.zip",
+  "sha256": "a2b6ad250a16a57e26f2e3b5efc652ba1758f208a7774d6c2b084bb1ecc71a10",
+  "size": 73252477,
+  "notes": "現場写真・工事写真の一覧を物件ごとに読み込み、移動や更新日時の変化があっても内容が同じサムネイルを再利用します。"
 }
