@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.26",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.26/ShuzenDaicho-v2.8.26.zip",
-  "sha256": "a2b6ad250a16a57e26f2e3b5efc652ba1758f208a7774d6c2b084bb1ecc71a10",
-  "size": 73252477,
-  "notes": "現場写真・工事写真の一覧を物件ごとに読み込み、移動や更新日時の変化があっても内容が同じサムネイルを再利用します。"
+  "version": "2.8.27",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.27/ShuzenDaicho-v2.8.27.zip",
+  "sha256": "b0148236515062af483e73c41cc3d37313d7b29fb7f5d798223d021c65ed423e",
+  "size": 73254885,
+  "notes": "手動分類で現場・工事写真のファイル名に分類名を付けます。現行の物件だけを確認し、保存フォルダーにアクセスできない場合は登録を保持します。"
 }
