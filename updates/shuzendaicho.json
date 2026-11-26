@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ShuzenDaicho",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.8.28",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.28/ShuzenDaicho-v2.8.28.zip",
-  "sha256": "ae2d260d74bdcb81113a6e0e97956c8f61ad100a68f36c73c3d7acda25913ba0",
-  "size": 73257691,
-  "notes": "現場写真・工事写真の回転をバックグラウンドで保存し、選択とスクロール位置を保ったまま対象のサムネイルを更新します。"
+  "version": "2.8.29",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/shuzendaicho-v2.8.29/ShuzenDaicho-v2.8.29.zip",
+  "sha256": "b3a4955a35b9a9110314644bfef3d95c3ee7f05d7cf28f81fac8c8ca70d5af12",
+  "size": 73260982,
+  "notes": "写真・見積書・単価表の履歴を初版と差分で保存し、過去の各版を照合してデータベースを軽量化します。"
 }
