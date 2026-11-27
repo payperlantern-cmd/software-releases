@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NIKKEResourceManager",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.8",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.8/NIKKEResourceManager-v2.0.8.zip",
-  "sha256": "fae87c71b778301167e5f8d7d821aef92bf922cf4d8f403b1e35cb9594bb769a",
-  "size": 328764581,
-  "notes": "活动场景索引 · Event scene indexes · イベントのシーン索引"
+  "version": "2.0.9",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.9/NIKKEResourceManager-v2.0.9.zip",
+  "sha256": "ff2c4570c04172f80c7fe013b1641efd8a589a2c2ed5b32a5766aebf5c51a85f",
+  "size": 328765469,
+  "notes": "剧情页可调双栏 · Resizable story reader columns · ストーリー画面の列幅調整"
 }
