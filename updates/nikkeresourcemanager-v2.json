@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NIKKEResourceManager",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.7",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.7/NIKKEResourceManager-v2.0.7.zip",
-  "sha256": "151fab796542eee37fdeee586efe1a8a7ebc3d1cba77673a2eb5770c0482f022",
-  "size": 328760841,
-  "notes": "活动关卡目录和专用路线 · Event chapters and routes · イベント目次と分岐ルート"
+  "version": "2.0.8",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.8/NIKKEResourceManager-v2.0.8.zip",
+  "sha256": "fae87c71b778301167e5f8d7d821aef92bf922cf4d8f403b1e35cb9594bb769a",
+  "size": 328764581,
+  "notes": "活动场景索引 · Event scene indexes · イベントのシーン索引"
 }
