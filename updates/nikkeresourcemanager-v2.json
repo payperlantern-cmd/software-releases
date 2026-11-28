@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NIKKEResourceManager",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.12",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.12/NIKKEResourceManager-v2.0.12.zip",
-  "sha256": "b633d015a8d60eb46eb3f6dd1df0f5b717cea0e4a52803f7f9699af8a6422d5e",
-  "size": 328768672,
-  "notes": "剧情镜头和上方通讯窗修正 · Story camera and communication windows · ストーリーのカメラと通信ウィンドウを修正"
+  "version": "2.0.13",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.13/NIKKEResourceManager-v2.0.13.zip",
+  "sha256": "57018a74a7c88b39e5ee556daa4942ae0e5d397ef3d578aa1bb9a8d811511d7b",
+  "size": 328769269,
+  "notes": "修复剧情翻页时立绘动作重播 · Keep portrait animation across dialogue · 台詞送り時の立ち絵アニメーションを継続"
 }
