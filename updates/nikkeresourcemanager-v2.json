@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NIKKEResourceManager",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.11",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.11/NIKKEResourceManager-v2.0.11.zip",
-  "sha256": "031d0f79e2776b2d29227fbcaabcc69cdf3829594191fc875728f462b4fa6568",
-  "size": 328767645,
-  "notes": "修复活动分支与剧情界面闪烁 · Event branches and smoother dialogue playback · イベント分岐と台詞送りを修正"
+  "version": "2.0.12",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.12/NIKKEResourceManager-v2.0.12.zip",
+  "sha256": "b633d015a8d60eb46eb3f6dd1df0f5b717cea0e4a52803f7f9699af8a6422d5e",
+  "size": 328768672,
+  "notes": "剧情镜头和上方通讯窗修正 · Story camera and communication windows · ストーリーのカメラと通信ウィンドウを修正"
 }
