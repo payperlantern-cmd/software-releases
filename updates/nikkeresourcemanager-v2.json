@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NIKKEResourceManager",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.14",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.14/NIKKEResourceManager-v2.0.14.zip",
-  "sha256": "de428993fd06b64293bdae28a3e41b23b795cd9a880791c61bff48603da28ade",
-  "size": 328773147,
-  "notes": "剧情通讯语音无线电混音与通讯窗退场时序 · Restore operator voice mix and panel exit timing · 通信音声と通信画面の退場タイミングを復元"
+  "version": "2.0.15",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.15/NIKKEResourceManager-v2.0.15.zip",
+  "sha256": "77f6d488eca7cd717baba2b5b9f7c0b9ebe75e9d3ae3f01e89343c11dd1117c5",
+  "size": 328781977,
+  "notes": "剧情语音口型与角色表情同步播放 · Voiced story portraits now animate their original mouth clips · ストーリーの音声に合わせて口形を再生"
 }
