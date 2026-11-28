@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NIKKEResourceManager",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.9",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.9/NIKKEResourceManager-v2.0.9.zip",
-  "sha256": "ff2c4570c04172f80c7fe013b1641efd8a589a2c2ed5b32a5766aebf5c51a85f",
-  "size": 328765469,
-  "notes": "剧情页可调双栏 · Resizable story reader columns · ストーリー画面の列幅調整"
+  "version": "2.0.10",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.10/NIKKEResourceManager-v2.0.10.zip",
+  "sha256": "96a90a638811ff9783593bbfc64dcc85d98f116f8a6b384d33bf36c9182e292b",
+  "size": 328766334,
+  "notes": "点击画面播放下一句，修复结束选项 · Click the scene to advance · 画面クリックで次の台詞へ"
 }
