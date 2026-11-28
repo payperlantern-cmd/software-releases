@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "NIKKEResourceManager",
   "repository": "payperlantern-cmd/software-releases",
-  "version": "2.0.10",
-  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.10/NIKKEResourceManager-v2.0.10.zip",
-  "sha256": "96a90a638811ff9783593bbfc64dcc85d98f116f8a6b384d33bf36c9182e292b",
-  "size": 328766334,
-  "notes": "点击画面播放下一句，修复结束选项 · Click the scene to advance · 画面クリックで次の台詞へ"
+  "version": "2.0.11",
+  "url": "https://github.com/payperlantern-cmd/software-releases/releases/download/nikkeresourcemanager-v2.0.11/NIKKEResourceManager-v2.0.11.zip",
+  "sha256": "031d0f79e2776b2d29227fbcaabcc69cdf3829594191fc875728f462b4fa6568",
+  "size": 328767645,
+  "notes": "修复活动分支与剧情界面闪烁 · Event branches and smoother dialogue playback · イベント分岐と台詞送りを修正"
 }
